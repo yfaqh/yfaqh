@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![yfaqh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yfaqh)](https://github.com/yfaqh)
+
+[![yfaqh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yfaqh)](https://github.com/yfaqh)
+
+![](https://komarev.com/ghpvc/?username=yfaqh)
