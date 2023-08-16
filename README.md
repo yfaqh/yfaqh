@@ -25,10 +25,10 @@ Here are some ideas to get you started: -->
 <table>
  <tr>
     <td>
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yfaqh&show_icons=true" alt="yfaqh" />
+        <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=yfaqh&show_icons=true" alt="yfaqh" />
     </td>
     <td style="padding: 15px 0px 0px 0px;">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yfaqh&show_icons=true&layout=compact" alt="yfaqh" />
+        <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=yfaqh&show_icons=true&layout=compact" alt="yfaqh" />
     </td>
  </tr>
 </table>
