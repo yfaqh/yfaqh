@@ -11,12 +11,12 @@ Here are some ideas to get you started: -->
 
 ### About me:
 <!-- - 🔭 I’m currently working on Scene Text Image Super-Resolution problems with text priors. -->
-- 🔭 I’m currently working on Object Detection and Recognition.
-- 🌱 I’m currently learning `Object Detection and Recognition`, `Pose Estimation`, `Transformer`, `Feature Fusion`, `C++`.
 <!-- - 👯 I’m looking to collaborate on Text or Document related research. -->
 <!-- - 🤔 I’m looking for help with prior information coding. -->
-- 🤔 I’m looking for help with Object Detection and Recognition.
 <!-- - 👯 I’m looking to collaborate on Object Detection and Recognition related research. -->
+- 🔭 I’m currently working on Object Detection and Recognition.
+- 🌱 I’m currently learning `Object Detection and Recognition`, `Pose Estimation`, `Transformer`, `Feature Fusion`, `C++`.
+- 🤔 I’m looking for help with Object Detection and Recognition.
 - 💬 Ask me about Computer Vision, Scene Text Image Super-Resolution.
 - 📫 How to reach me: Email me at yfaqh2018@163.com or yfaqh2020@gmail.com.
 - ⚡ Fun fact: I seem to sing well?
