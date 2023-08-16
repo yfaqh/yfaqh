@@ -1,6 +1,7 @@
 ### 😃 Hi there 👋 <p align="right">![](https://komarev.com/ghpvc/?username=yfaqh&label=Total+visitors&color=blueviolet&style=plastic)</p>
 - Hello, I am Yang Hang.
-- Currently a master at Wuhan Institute of Technology Computer Science and Engineering School.
+- Currently an AI algorithm engineer.
+- Graduated from Wuhan Institute of Technology Computer Science and Engineering School with a master's degree.
 - My general research interests lie in Computer Vision and Image Processing.
 
 <!-- 
@@ -9,10 +10,13 @@
 Here are some ideas to get you started: -->
 
 ### About me:
-- 🔭 I’m currently working on Scene Text Image Super-Resolution problems with text priors.
-- 🌱 I’m currently learning `Transformer`, `Feature Fusion`, `C++`.
-- 👯 I’m looking to collaborate on Text or Document related research.
-- 🤔 I’m looking for help with prior information coding.
+<!-- - 🔭 I’m currently working on Scene Text Image Super-Resolution problems with text priors. -->
+- 🔭 I’m currently working on Object Detection and Recognition.
+- 🌱 I’m currently learning `Object Detection and Recognition`, `Pose Estimation`, `Transformer`, `Feature Fusion`, `C++`.
+<!-- - 👯 I’m looking to collaborate on Text or Document related research. -->
+<!-- - 🤔 I’m looking for help with prior information coding. -->
+- 🤔 I’m looking for help with Object Detection and Recognition.
+<!-- - 👯 I’m looking to collaborate on Object Detection and Recognition related research. -->
 - 💬 Ask me about Computer Vision, Scene Text Image Super-Resolution.
 - 📫 How to reach me: Email me at yfaqh2018@163.com or yfaqh2020@gmail.com.
 - ⚡ Fun fact: I seem to sing well?
